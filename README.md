@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src= "https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" height="30" alt="express logo"  />
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30" alt="express logo"  />
 </div>
 
 ###
