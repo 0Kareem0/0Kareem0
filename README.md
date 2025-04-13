@@ -1,4 +1,4 @@
-<h3 align="left">Hello i'm Kareeem ⚡️ Aspiring Full-Stack Developer focused on mastering the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about building dynamic web applications and continuously expanding my skills in JavaScript, backend development, and modern web technologies.. A Linux enthusiast Beyond development</h3>
+<h3 align="left">Hello i'm Kareeem ⚡️ Aspiring Full-Stack Developer focused on mastering the MERN stack. I’m very comfortable working in Linux environments, Passionate about building dynamic web applications and continuously expanding my skills in JavaScript, backend development, and modern web technologies.. A Linux enthusiast Beyond development</h3>
 
 ###
 
