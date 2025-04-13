@@ -1,4 +1,4 @@
-<h3 align="left">Hello i'm Kareeem ⚡️ a passionate backend developer with a strong foundation in HTML, CSS, JavaScript, Node.js, Express.js, Git, and OOP. i'm currently focusing on mastering backend development while also reviewing programming fundamentals to strengthen my skills. A Linux enthusiast Beyond development</h3>
+<h3 align="left">Hello i'm Kareeem ⚡️ Aspiring Full-Stack Developer focused on mastering the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about building dynamic web applications and continuously expanding my skills in JavaScript, backend development, and modern web technologies.. A Linux enthusiast Beyond development</h3>
 
 ###
 
