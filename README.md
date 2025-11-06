@@ -1,4 +1,4 @@
-<h3 align="left"Hello I'm Kareem ⚡ Aspiring Full-Stack Developer focused on mastering the Frontend first with React.
+<h3 align="left">Hello I'm Kareem ⚡ Aspiring Full-Stack Developer focused on mastering the Frontend first with React.
 I know backend technologies (Node.js, Express, MongoDB), but I'm NOT working with backend right now — my full focus is building pixel-perfect, dynamic, and blazing-fast UIs using React, JavaScript, and modern web tools.
 Passionate about Linux environments, crafting clean code, and continuously expanding my skills in frontend development. A Linux enthusiast. Beyond development. 🚀</h3>
 
@@ -40,7 +40,7 @@ Passionate about Linux environments, crafting clean code, and continuously expan
 ###
 
 <div align="left">
-  <a href="[https://x.com/3lite001?t=5Hc_E0_5MbdjuCCy8WuX1Q&s=09](https://x.com/KareemLost001)" target="_blank">
+  <a href="https://x.com/KareemLost001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
