@@ -5,12 +5,6 @@ Passionate about Linux environments, crafting clean code, and continuously expan
 ###
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0Kareem0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="152" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3MzZGtpMnU3YWh3cjgxZGg5dGFrMnZtZHo5b3dhNG5xZnlqeDR6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif"  />
 </div>
 
