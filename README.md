@@ -1,6 +1,4 @@
-<h3 align="left">Hello I'm Kareem ⚡ Aspiring Full-Stack Developer focused on mastering the Frontend first with React.
-I know backend technologies (Node.js, Express, MongoDB), but I'm NOT working with backend right now — my full focus is building pixel-perfect, dynamic, and blazing-fast UIs using React, JavaScript, and modern web tools.
-Passionate about Linux environments, crafting clean code, and continuously expanding my skills in frontend development. A Linux enthusiast. Beyond development. 🚀</h3>
+<h3 align="left">Hello, I'm Kareem ⚡ Frontend Developer focused on building pixel-perfect, dynamic, and blazing-fast UIs using React, TypeScript, JavaScript, and modern web tools. I'm passionate about clean code, Linux environments, and continuously expanding my skills in frontend development. Outside of development, I have a strong interest in Cybersecurity and enjoy exploring Linux, experimenting with different environments, and learning how systems work. 🚀🐧🔐</h3>
 
 ###
 
