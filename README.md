@@ -1,4 +1,4 @@
-<h3 align="left">Hello, I'm Kareem ⚡ Frontend Developer focused on building pixel-perfect, dynamic, and blazing-fast UIs using React, TypeScript, JavaScript, and modern web tools. I'm passionate about clean code, Linux environments, and continuously expanding my skills in frontend development. Outside of development, I have a strong interest in Cybersecurity and enjoy exploring Linux, experimenting with different environments, and learning how systems work. 🐧</h3>
+<h3 align="left">Hello, I'm Kareem ⚡ Frontend Developer focused on building pixel-perfect, dynamic, and blazing-fast UIs using React, TypeScript, JavaScript, and modern web tools. I'm passionate about clean code, Linux environments, and continuously expanding my skills in frontend development. Outside of development, I have a strong interest in Cybersecurity and enjoy exploring Linux, experimenting with different environments, and learning how systems work.🐧</h3>
 
 ###
 
